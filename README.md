@@ -1,6 +1,6 @@
 # TaskGotReady
 
-<img src="https://github.com/ViktorVarsano/TaskGotReady/blob/master/video.gif" width="300">
+<img src="https://github.com/ViktorVarsano/TaskGotReady/blob/master/video.gif" width="1124">
 
 TaskGotReady app lets you create and keep your on-demand lists at hand. 
 
