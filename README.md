@@ -1,6 +1,6 @@
 # TaskGotReady
 
-![caption](https://github.com/ViktorVarsano/TaskGotReady/blob/master/video.gif =2436x1125)
+![caption](width="2436" height="1125" https://github.com/ViktorVarsano/TaskGotReady/blob/master/video.gif)
 
 TaskGotReady app lets you create and keep your on-demand lists at hand. 
 
