@@ -1,7 +1,6 @@
 # TaskGotReady
 
-![caption](/images/output/video.gif =2436x1125)
-
+<img src="https://github.com/ViktorVarsano/TaskGotReady/blob/master/video.gif" width="500">
 TaskGotReady app lets you create and keep your on-demand lists at hand. 
 
 A variety of pleasant changing gradients populate newly-created lists.
